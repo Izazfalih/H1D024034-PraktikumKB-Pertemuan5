@@ -1,6 +1,7 @@
-Nama: Izaz Falih
-NIM: H1D024034
-Shift: B
+## Nama: Izaz Falih
+## NIM: H1D024034
+## Shift: B
+---
 
 # SISTEM PAKAR DIAGNOSA PENYAKIT THT BERBASIS CONSOLE
 
